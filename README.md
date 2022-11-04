@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 - 🔭 I’m currently working on: __Projects
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming, Express__
+- 🌱 I’m currently learning: __Blockchain, Solidity Programming,
 - 💬 Ask me about _Software Dev..
 
 <br/>
