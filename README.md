@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: __Projects
-- 🌱 I’m currently learning: __Blockchain, Solidity Programming,
+- 🔭 I’m currently working on: hamro life bank
+- 🌱 I’m currently learning: etherJS, nextJS, progressive web app
 - 💬 Ask me about _Software Dev..
 
 <br/>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
         <td>Databases/Datastores</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a> -->
 <!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
         </td>
