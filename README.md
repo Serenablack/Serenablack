@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 - 🔭 I’m currently working on: hamro life bank
-- 🌱 I’m currently learning: etherJS, nextJS, progressive web app, prisma
+- 🌱 I’m currently learning: nextJS, progressive web app, prisma
 - 💬 Ask me about _Software Dev..
 
 <br/>
@@ -58,6 +58,7 @@ Here are some ideas to get you started:
             <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src=" https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -82,6 +83,7 @@ Here are some ideas to get you started:
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/heroku/heroku-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src=" https://github.com/devicons/devicon/blob/v2.13.0/icons/sequelize/sequelize-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
