@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: hamro life bank
+- 🔭 I’m currently working on: learning and improving my code 
 - 🌱 I’m currently learning: nextJS, progressive web app, prisma
 - 💬 Ask me about _Software Dev..
 
