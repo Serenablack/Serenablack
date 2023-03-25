@@ -35,8 +35,9 @@ Here are some ideas to get you started:
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Serenablack&count_private=true&show_icons=true&theme=ocean_dark"/>
-        </td>
-        </table>
+        </td> 
+        </tr>
+ </table>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serenablack&theme=outrun&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
 
 ### Toolset
