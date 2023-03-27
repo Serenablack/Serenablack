@@ -32,12 +32,11 @@ Here are some ideas to get you started:
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serenablack&theme=nightowl"/>
         </td> 
     </tr>
-   
-           <td>
+    <tr>
+        <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Serenablack&count_private=true&show_icons=true&theme=ocean_dark"/>
-            </td> 
-        <tr>
- </table>
+        </td>
+        </table>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serenablack&theme=outrun&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
 
 ### Toolset
