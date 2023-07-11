@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 - 🔭 I’m currently working on: learning and improving my code 
-- 🌱 I’m currently learning: nextJS, progressive web app, prisma
-- 💬 Ask me about _Software Dev..
+- 🌱 I’m currently learning: nestJS, mobile app, typescript
+- 💬 Ask me about latest software tech stacks...
 
 <br/>
 
