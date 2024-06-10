@@ -36,6 +36,7 @@ Here are some ideas to get you started:
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=Serenablack&count_private=true&show_icons=true&theme=ocean_dark"/>
         </td>
+         </tr>
         </table>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serenablack&theme=outrun&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
 
@@ -65,8 +66,6 @@ Here are some ideas to get you started:
         <td>Databases/Datastores</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40"/></a> -->
-<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redis/redis-original.svg" width="40" height="40"/></a> -->
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
@@ -74,8 +73,6 @@ Here are some ideas to get you started:
         <td>IDEs</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-<!--             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/atom/atom-original.svg" width="40" height="40"/></a> -->
-            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
     <tr>
