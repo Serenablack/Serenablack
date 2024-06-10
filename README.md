@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: learning and improving my code 
-- 🌱 I’m currently learning: nestJS, typescript, Java
-- 💬 Ask me about latest software tech stacks...
+- 🔭 I’m currently working on: learning java and optimizing my code
+- 🌱 I’m currently learning: angular, typescript, spring boot
+- 💬 Ask me about how I keep up with daily updates ...
 
 <br/>
 
