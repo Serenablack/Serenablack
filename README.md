@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 - 🔭 I’m currently working on: learning java and optimizing my code
-- 🌱 I’m currently learning: angular, typescript, spring boot
+- 🌱 I’m currently learning: angular, graphql, python fastapi
 - 💬 Ask me about how I keep up with daily updates ...
 
 <br/>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serenablack&theme=nightowl"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?email=sunsetsin1.sy@gmail.com&theme=nightowl"/>
         </td> 
     </tr>
     <tr>
