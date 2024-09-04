@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?username=Serenablack&theme=nightowl"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serenablack&theme=nightowl"/>
         </td> 
     </tr>
     <tr>
