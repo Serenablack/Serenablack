@@ -48,8 +48,9 @@ Here are some ideas to get you started:
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nestjs/javnestjs-original.svg" width="40" height="40"/></a>
+                        <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/springboot/springboot-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nestjs/nestjs-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -62,6 +63,8 @@ Here are some ideas to get you started:
             <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/materialui/materialui-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/angular/angular-original.svg" width="40" height="40"/></a>
         </td>
@@ -90,6 +93,7 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/sequelize/sequelize-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/prisma/prisma-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typeorm/typeorm-original.svg" width="40" height="40"/></a>
+             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
