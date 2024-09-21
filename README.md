@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: learning java and optimizing my code
-- 🌱 I’m currently learning: angular, graphql, python fastapi
+- 🔭 I’m currently working on: learning staying updated and optimizing my code
+- 🌱 I’m currently learning: graphql, fastapi
 - 💬 Ask me about how I keep up with daily updates ...
 
 <br/>
