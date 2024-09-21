@@ -48,9 +48,9 @@ Here are some ideas to get you started:
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
-                        <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/springboot/springboot-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nestjs/nestjs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/user-attachments/assets/c68dc043-001b-4138-908a-3574474430b2" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
+                        <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40"/></a>
@@ -66,7 +67,7 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/materialui/materialui-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/angular/angular-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000) width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -81,8 +82,8 @@ Here are some ideas to get you started:
         <td>IDEs</td>
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/eclipse/eclipse-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=61466&format=png&color=000000" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=pcHtLiSbkmzw&format=png&color=000000" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
