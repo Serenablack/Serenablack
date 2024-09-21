@@ -67,7 +67,7 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/css3/css3-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/materialui/materialui-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000 width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -93,7 +93,6 @@ Here are some ideas to get you started:
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/sequelize/sequelize-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typeorm/typeorm-original.svg" width="40" height="40"/></a>
              <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
         </td>
     </tr>
