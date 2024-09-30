@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: learning staying updated and optimizing my code
 - 🌱 I’m currently learning: Graphql, Fastapi
-- 💬 Ask me about how I keep up with daily updates ...
+- 💬 Ask me where the bugs are ...
 
 <br/>
 
