@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### Software Engineer
 
-- 🔭 I’m currently working on: learning staying updated and optimizing my code
+- 🔭 I’m currently working on: learning, staying updated and optimizing my code
 - 🌱 I’m currently learning: Fastapi
 - 💬 Ask me where the bugs are ...
 
