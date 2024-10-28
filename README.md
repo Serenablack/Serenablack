@@ -11,7 +11,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...                    -->
+- ⚡ Fun fact: ...                 
+
+
+   -->
 
 
 # Hello there 👋, I'm Sandhya Yadav
@@ -19,7 +22,7 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 - 🔭 I’m currently working on: learning, staying updated and optimizing my code
-- 🌱 I’m currently learning: Fastapi
+- 🌱 I’m currently learning: Fastapi, GraphQl
 - 💬 Ask me where the bugs are ...
 
 <br/>
