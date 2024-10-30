@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: learning, staying updated and optimizing my code
 - 🌱 I’m currently learning: Fastapi, GraphQl
-- 💬 Ask me where the bugs are ...
-
+- 🌐 I'm reachable at: - 💼 [LinkedIn](https://www.linkedin.com/in/sandhyayadav-webdeveloper/)  
+## 🌟 Explore My Work  [Portfolio](https://www.yadavsandhya.site/) 
 <br/>
 
 ### My GitHub Stats
