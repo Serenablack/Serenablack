@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 🌱 Currently Learning
 I am actively enhancing my skills in FastAPI and GraphQL to further my knowledge in modern web development.
 
+🌟 Explore My Work
+Check out my portfolio to see my projects and experience: [Portfolio](https://www.yadavsandhya.site/)
+
 🌐 Connect with Me
 Feel free to reach out via my LinkedIn profile: <a href="https://www.linkedin.com/in/sandhyayadav-webdeveloper/"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="60" height="60" alt="LinkedIn Profile"/> </a>
-
-🌟 Explore My Work
-Check out my portfolio to see my projects and experience: Portfolio
 
 ### My GitHub Stats
 
