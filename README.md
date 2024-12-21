@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Software Engineer
 
 -🌱 Currently Learning
-I am actively enhancing my skills in FastAPI to further my knowledge in modern web development.
+I am actively enhancing my skills in graphQL to further my knowledge in modern web development.
 
 -🌟 Explore My Work
 Check out my portfolio to see my projects and experience: [Portfolio](https://www.yadavsandhya.site/)
