@@ -49,10 +49,10 @@ I am actively enhancing my skills in graphQL to further my knowledge in modern w
     <tr>
         <td>Programming/Backend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?id=54087&format=png" width="50" height="50"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/user-attachments/assets/c68dc043-001b-4138-908a-3574474430b2" width="40" height="40"/></a>
-            <a href=""><img src="https://img.icons8.com/?size=100&id=2oBx9FpXcbLa&format=png&color=000000" width="40" height="40"/></a>
+            <a href=""><img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40" height="40"/></a>
             <a href=""><img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="40" height="40"/></a>
         </td>
     </tr>
